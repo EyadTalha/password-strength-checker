@@ -1,3 +1,4 @@
+![Banner](./A_promotional_digital_graphic_design_banner_showca.png)
 # Password Strength Checker
 
 A simple Python project to check the strength of a password with both CLI and GUI using Tkinter.

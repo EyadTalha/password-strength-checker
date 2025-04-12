@@ -29,7 +29,6 @@ python tests.py
 ```
 
 ## Screenshots
-_Add screenshots of the GUI here (e.g., when running locally)_
 
 ---
 
